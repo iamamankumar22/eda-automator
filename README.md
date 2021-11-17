@@ -1,17 +1,5 @@
 # eda-app
 
-# Watch the tutorial video
-
-[How to build an EDA app using Pandas Profiling | Streamlit #19](https://youtu.be/p4uohebPuCg)
-
-<a href="https://youtu.be/p4uohebPuCg"><img src="http://img.youtube.com/vi/p4uohebPuCg/0.jpg" alt="How to build an EDA app using Pandas Profiling | Streamlit #19" title="How to build an EDA app using Pandas Profiling | Streamlit #19" width="400" /></a>
-
-# Demo
-
-Launch the web app:
-
-[![Streamlit App](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://share.streamlit.io/dataprofessor/eda-app/main/app.py)
-
 # Reproducing this web app
 To recreate this web app on your own computer, do the following.
 
